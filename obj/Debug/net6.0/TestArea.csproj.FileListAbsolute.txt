@@ -1,0 +1,15 @@
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\bin\Debug\net6.0\TestArea.exe
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\bin\Debug\net6.0\TestArea.deps.json
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\bin\Debug\net6.0\TestArea.runtimeconfig.json
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\bin\Debug\net6.0\TestArea.dll
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\bin\Debug\net6.0\ref\TestArea.dll
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\bin\Debug\net6.0\TestArea.pdb
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\obj\Debug\net6.0\TestArea.csproj.AssemblyReference.cache
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\obj\Debug\net6.0\TestArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\obj\Debug\net6.0\TestArea.AssemblyInfoInputs.cache
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\obj\Debug\net6.0\TestArea.AssemblyInfo.cs
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\obj\Debug\net6.0\TestArea.csproj.CoreCompileInputs.cache
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\obj\Debug\net6.0\TestArea.dll
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\obj\Debug\net6.0\ref\TestArea.dll
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\obj\Debug\net6.0\TestArea.pdb
+C:\LEXICON\NETFUND21\cs\OVNING_2\TestArea\obj\Debug\net6.0\TestArea.genruntimeconfig.cache
